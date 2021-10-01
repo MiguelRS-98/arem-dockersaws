@@ -37,17 +37,17 @@ Esta parte se encargara de generar los archivos .Json para que la base de datos 
 
 ### Pruebas de realización
 ![Prueba](Images/1Prueba.jpg)<br>
-Funcionamiento de Docker local.
+Funcionamiento de Docker local.<br>
 ![Prueba](Images/2Prueba.jpg)<br>
-Funcionamiento de Docker local del profesor en el puerto 1.
+Funcionamiento de Docker local del profesor en el puerto 1.<br>
 ![Prueba](Images/3Prueba.jpg)<br>
-Funcionamiento de Docker local del profesor en el puerto 2.
+Funcionamiento de Docker local del profesor en el puerto 2.<br>
 ![Prueba](Images/4Prueba.jpg)<br>
-Funcionamiento de Docker local del profesor en el puerto 3.
+Funcionamiento de Docker local del profesor en el puerto 3.<br>
 ![Prueba](Images/5Prueba.jpg)<br>
-Dashboard de los dockers manejados.
+Dashboard de los dockers manejados.<br>
 ![Prueba](Images/6Prueba.jpg)<br>
-Imagenes Dockers.
+Imagenes Dockers.<br>
 ![Prueba](Images/7Prueba.jpg)<br>
 Bases de datos mongo en Dockers.<br>
 ![Prueba](Images/8Prueba.jpg)<br>
