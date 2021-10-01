@@ -33,7 +33,7 @@ Esta parte se encargara de generar la conexión del servidor con la base de dato
 Esta parte se encargara de generar los archivos .Json para que la base de datos pueda atender los datos proporcionados por los usuarios, de manera ordena con su respectiva identificación, contexto y hora de ingreso.
 
 ### Ejecución comando:
-> mvn exec:java -D"exec.mainClass"="edu.escuelaing.arem.App.App" 
+[Ejecución - Dockers & AWS](EjecucionTaller.pdf)
 
 ### Pruebas de realización
 ![Prueba](Images/1Prueba.jpg)<br>
@@ -64,10 +64,6 @@ Pagina principal de registro de cadenas de usuarios.<br>
 Cadenas ingresadas por los usuarios.<br>
 ![Prueba](Images/14Prueba.jpg)<br>
 Cadenas ingresadas por los usuarios en MongoDB.<br>
-
-
-
-
 
 ## JavaDoc:
 [JavaDoc - Dockers & AWS](JavaDocs/index.html)
