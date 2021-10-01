@@ -24,13 +24,13 @@ El taller consiste en crear una aplicación web pequeña usando el micro-framewo
 La arquitectura de este taller se divide en 3 partes fundamentales, para generar un proceso optimo con la interacción de servidor-usario y usario-servidor.
 #### Package: DiagramaPrincipal - SparkWebServer.java
 ![Diagrama Clases](Images/DiagramaPrincipal.jpg)<br>
-Este es la parte principal, ya que se conectara de manera adecuada con la base de datos y la interacción de los archivos .Json que contienen la información suministrada.
+Este es la parte principal, ya que se conectara de manera adecuada con la base de datos y la interacción de los archivos .Json que contienen la información suministrada, también se puede observar la ejecución del servidor SparkWeb con el cual se mantienen los datos en funcionamiento.
 #### Package: Diagrama Data Base - ConnectionDB.java
 ![Diagrama Clases](Images/DiagramaDB.jpg)<br>
-Esta parte se encargara de generar la conexión del servidor con la base de datos, también del mantenimiento de esta por la modificaciónes que tendra por la interacción realizada.
+Esta parte se encargara de generar la conexión del servidor con la base de datos, también del mantenimiento de esta por la modificaciónes que tendra por la interacción realizada. Por otro lado la base de datos contiene colecciones y para su versión cliente.
 #### Package: Diagrama Json - ConnectionJson.java
 ![Diagrama Clases](Images/DiagramaJson.jpg)<br>
-Esta parte se encargara de generar los archivos .Json para que la base de datos pueda atender los datos proporcionados por los usuarios, de manera ordena con su respectiva identificación, contexto y hora de ingreso.
+Esta parte se encargara de generar los archivos .Json para que la base de datos pueda atender los datos proporcionados por los usuarios, de manera ordena con su respectiva identificación, contexto y hora de ingreso. Esto complementa la documentación e iteración del los datos proporcionados.
 
 ### Ejecución comando:
 [Ejecución - Dockers & AWS](EjecucionTaller.pdf)
