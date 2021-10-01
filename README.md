@@ -50,7 +50,7 @@ Dashboard de los dockers manejados.<br>
 Imagenes Dockers.<br>
 ![Prueba](Images/7Prueba.jpg)<br>
 Bases de datos mongo en Dockers.<br>
-![Prueba](Images/8Prueba.jpg)<br>
+![Prueba](Images/8Pprueba.jpg)<br>
 Funcionamiento del Doker utilizado para la maquina virtual AWS.<br>
 ![Prueba](Images/9Prueba.jpg)<br>
 Insertación de las imagenes en la maquina virtual de AWS para el posterior funcionamiento.<br>
