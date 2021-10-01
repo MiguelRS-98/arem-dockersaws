@@ -49,21 +49,21 @@ Dashboard de los dockers manejados.
 ![Prueba](Images/6Prueba.jpg)<br>
 Imagenes Dockers.
 ![Prueba](Images/7Prueba.jpg)<br>
-Bases de datos mongo en Dockers.
+Bases de datos mongo en Dockers.<br>
 ![Prueba](Images/8Prueba.jpg)<br>
-Funcionamiento del Doker utilizado para la maquina virtual AWS.
+Funcionamiento del Doker utilizado para la maquina virtual AWS.<br>
 ![Prueba](Images/9Prueba.jpg)<br>
-Insertación de las imagenes en la maquina virtual de AWS para el posterior funcionamiento.
+Insertación de las imagenes en la maquina virtual de AWS para el posterior funcionamiento.<br>
 ![Prueba](Images/10Prueba.jpg)<br>
-Instancia de la maquina virtual de AWS.
+Instancia de la maquina virtual de AWS.<br>
 ![Prueba](Images/11Prueba.jpg)<br>
-Funcionamiento de la maquina virtual insertada con Hello Docker!.
+Funcionamiento de la maquina virtual insertada con Hello Docker!.<br>
 ![Prueba](Images/12Prueba.jpg)<br>
-Pagina principal de registro de cadenas de usuarios.
+Pagina principal de registro de cadenas de usuarios.<br>
 ![Prueba](Images/13Prueba.jpg)<br>
-Cadenas ingresadas por los usuarios.
+Cadenas ingresadas por los usuarios.<br>
 ![Prueba](Images/14Prueba.jpg)<br>
-Cadenas ingresadas por los usuarios en MongoDB.
+Cadenas ingresadas por los usuarios en MongoDB.<br>
 
 
 
